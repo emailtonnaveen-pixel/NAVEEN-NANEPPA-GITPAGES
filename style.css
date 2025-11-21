@@ -1,0 +1,12 @@
+.paragraph {
+  text-align: left
+}
+p {
+  color: blue;
+}
+body {
+  font-family: system-ui;
+  background: #f18f09;
+  color: white;
+  text-align: center
+}
